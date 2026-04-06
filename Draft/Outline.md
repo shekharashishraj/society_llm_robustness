@@ -101,9 +101,6 @@ Citations
 6. AIRA/ARIA - LEVEL 1-4 → 4 levels of attack success
 7. At least 5 papers from bias domain → linguistic
 8. at least 3 indirect prompt injection
-9. pgd, fgcm, simple text on image (vit - attack), dnn attacks
-
-!](/Users/ashishrajshekhar/Desktop/2026/society_llm_robustness/Screenshot 2026-03-29 at 7.38.07 PM.png)
 
 
 
